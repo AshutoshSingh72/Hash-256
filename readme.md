@@ -6,7 +6,11 @@
 
 [![Test & Build app](https://github.com/kodadot/nft-gallery/actions/workflows/build.yml/badge.svg)](https://github.com/kodadot/nft-gallery/actions/workflows/build.yml) [![cypress](https://github.com/kodadot/nft-gallery/actions/workflows/e2e.yml/badge.svg)](https://github.com/kodadot/nft-gallery/actions/workflows/e2e.yml) [![Reviewdog](https://github.com/kodadot/nft-gallery/actions/workflows/reviewdog.yml/badge.svg)](https://github.com/kodadot/nft-gallery/actions/workflows/reviewdog.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/7d14fab327c632d5f0ce/maintainability)](https://codeclimate.com/github/kodadot/nft-gallery/maintainability)
 
-![video]([https://user-images.githubusercontent.com/5887929/217076362-464e1293-8a2d-43ee-829f-fba17408e4c3.png](https://github.com/AshutoshSingh72/Hash-256/assets/78789916/82e136d2-4f79-420e-8b54-76dbde4b0f37))
+![video]([http
+
+https://github.com/AshutoshSingh72/Hash-256/assets/78789916/0c0d829b-eed5-4fdc-877e-ad3e43fd17fa
+
+s://user-images.githubusercontent.com/5887929/217076362-464e1293-8a2d-43ee-829f-fba17408e4c3.png](https://github.com/AshutoshSingh72/Hash-256/assets/78789916/82e136d2-4f79-420e-8b54-76dbde4b0f37))
 
 #### Is this your first time contributing? Set up your local environment [here](./content/blog/first-time.md)
 
